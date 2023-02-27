@@ -1,0 +1,35 @@
+.newsletter-image {
+    height: 200px !important;
+    width: 100% !important;
+}
+
+.newsletter-card {
+    height: 200px !important;
+    width: 300px !important;
+}
+
+.newslettermanager-button {
+    height: 50px !important
+}
+
+.newsletterpreview-button {
+    font-size: 12px;
+}
+
+.newsletter-edit-button {
+    height: 45px !important;
+    width: 50px !important;
+}
+
+.newsletter-container {
+    width: 2000px !important;
+}
+
+.newsletter-content-height {
+    height: 800px !important;
+}
+
+.migrately-text {
+    color:  #0066cc;
+}
+
