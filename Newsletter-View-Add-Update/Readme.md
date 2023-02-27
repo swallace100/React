@@ -8,7 +8,7 @@
 
 ## Installation
 
-- yarn install is required for the following
+- yarn install is required for the following:
   - react-bootstrap
   - react-router-dom
   - formik
